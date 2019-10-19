@@ -22,3 +22,8 @@
 * OpenCV
 
 * Tensorflow
+
+
+# About Project
+
+This  Project was created to help blind people go to places without having to carry a cane.
