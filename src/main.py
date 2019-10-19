@@ -1,6 +1,6 @@
 import os
 
-// The OS module in python provides functions for interacting with the operating system
+//  The OS module in python provides functions for interacting with the operating system
 
 import sys
 
