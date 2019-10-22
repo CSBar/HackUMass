@@ -1,4 +1,3 @@
-# HackUMass 2019
 
 # Team Members
 
