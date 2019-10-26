@@ -11,7 +11,7 @@ Github Link: https://www.github.com/
 
 * Eric 
 
-Github Link: https://www.github.com/
+Github Link: https://www.github.com/RollingPeanuts
 
 * Sarthak
 
