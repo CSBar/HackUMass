@@ -7,7 +7,7 @@ Github Link: https://www.github.com/roshanlam
 
 * Tergel
 
-Github Link: https://www.github.com/
+Github Link: https://github.com/tmo324
 
 * Eric 
 
